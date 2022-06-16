@@ -8,6 +8,7 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "build":"node index.js"
   }
 }
